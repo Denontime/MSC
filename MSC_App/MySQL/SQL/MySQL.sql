@@ -1,0 +1,1 @@
+﻿CREATE DATABASE `librariesystem` CHARACTER SET 'utf8';
